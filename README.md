@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+#EVENT CALENDAR
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: CODE CRUSADERS
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Aliya Mehabin K.A - SSET
+- Member 2: Ankitha Sunil - SSET 
+- Member 3: Ann Mary Walton - SSET
 
 ### Hosted Project Link
 [mention your project hosted project link here]
